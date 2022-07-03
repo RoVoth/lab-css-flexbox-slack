@@ -8,8 +8,7 @@ You should be reaaaaally familiar with [Slack](https://www.slack.com/) at this p
 
 We use the app almost every day to keep our communications with our classmates and the **Ironhack** team, so we know perfectly the chat interface but today we are going to clone their landing page. [Here](https://www.slack.com/) you can visit the website and check what are we going to do. :stuck_out_tongue_winking_eye:
 
-We want to practice our new **Flexbox** skills, so we are going to implement the *"responsiveness"* of the landing page. No worries, we will show you what we need!
-
+We want to practice our new **Flexbox** skills, so we are going to implement the _"responsiveness"_ of the landing page. No worries, we will show you what we need!
 
 ## Requirements
 
@@ -19,11 +18,13 @@ We want to practice our new **Flexbox** skills, so we are going to implement the
 ## Submission
 
 Upon completion, run the following commands:
+
 ```
 $ git add .
 $ git commit -m "done"
 $ git push origin master
 ```
+
 Create Pull Request so your TAs can check up your work.
 
 ## Exercise
@@ -34,14 +35,13 @@ The **starter_code** contains the basic structure of an HTML & CSS project to st
 
 ### Iteration 1 | Extra Small Screen (width < 768px)
 
-Mobile first right? :wink: 
+Mobile first right? :wink:
 
 First, we are going to clone the mobile design of the webpage! 📱 Oh! Remember to use **flexbox**, because it will be really helpful later on when we need to adapt it to different screen-size!
- 
+
 After doing your magic, you should have something like this:
 
 <img src="https://user-images.githubusercontent.com/23629340/33178991-38f26dcc-d068-11e7-8ebd-3e0ef8d72ad4.gif" alt="mobile-1" style="width:23%">
-
 
 <img src="https://user-images.githubusercontent.com/23629340/33178659-3a19db82-d067-11e7-85a5-62eeb67a0645.png" alt="mobile-1" style="width:23%">
 
@@ -55,10 +55,9 @@ After doing your magic, you should have something like this:
 
 <img src="https://user-images.githubusercontent.com/23629340/33178771-7cf0f440-d067-11e7-9676-0a61eb7c8568.png" alt="mobile-1" style="width:23%">
 
-
 ### Iteration 2 | Small Screen (961px > width > 767px)
 
-Let's start growing our screen size. Focus on small screens (iPads, tablets or bigger smartphones). Notice we have some changes. You need to work on the following ones: 
+Let's start growing our screen size. Focus on small screens (iPads, tablets or bigger smartphones). Notice we have some changes. You need to work on the following ones:
 
 1. The buttons and inputs stop occupying 100%.
 
@@ -84,10 +83,9 @@ The easiest change we will have. You should display 3 logos per row on the **"Yo
 
 <img src="https://user-images.githubusercontent.com/23629340/33180156-17eac5e4-d06c-11e7-85b6-60197aa9ec48.gif" alt="medium-1" style="width:50%">
 
-
 ### Iteration 4 | Large Screen (width > 1200px)
 
-Last one! Some small changes and we are done! 
+Last one! Some small changes and we are done!
 
 1. Our **nav-bar** starts to show all the menu links, so go ahead, remove the collapse icon and add the list.
 
@@ -100,6 +98,5 @@ Last one! Some small changes and we are done!
 <img src="https://user-images.githubusercontent.com/23629340/33180353-b49700b0-d06c-11e7-9e87-e54735699ad5.png" alt="medium-1" style="width:48%">
 
 <img src="https://user-images.githubusercontent.com/23629340/33180357-bda7665e-d06c-11e7-8a2f-4d647de32944.png" alt="medium-1" style="width:48%">
-
 
 Happy coding! ❤️
